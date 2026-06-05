@@ -1,0 +1,6 @@
+{
+  "name": "Reels & Shorts Counter",
+  "description": "An Android application that counts Instagram Reels and YouTube Shorts using modern Jetpack Compose and an Accessibility Service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
