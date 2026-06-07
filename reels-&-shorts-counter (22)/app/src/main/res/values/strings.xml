@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Reels &amp; Shorts Counter</string>
-    <string name="accessibility_service_label">ScreenHabits Counter Service</string>
-    <string name="accessibility_service_description">This app uses Accessibility Service only to count Reels and Shorts activity for digital wellbeing tracking. No personal or sensitive data is collected.</string>
-    <string name="privacy_title">Privacy Focus &amp; Security</string>
-    <string name="privacy_body">Our app values your privacy above all else. This app does NOT ask for or access: SMS, Contacts, Storage, Financial accounts, Clipboard or call logs. Local data stays on your device inside a secure SQLite database.</string>
-    <string name="onboarding_agreement">I understand and accept the Privacy Policy and terms. I want to grant permissions to count my reels/shorts for positive habits.</string>
-</resources>
